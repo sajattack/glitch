@@ -11,6 +11,8 @@ Randomly changes binary file data in order to create glitch art.
 
 Play around with different values for percent, 0.1 seems to work okay for most image formats, 0.01 worked okay for video.
 Also, try different filetypes and share your results!
+I noticed different image viewers sometimes perform differently with these glitched images. They either display the image differently or not at all.
+Windows Photo Viewer worked best for me. As a result, I usually screenshot the glitches from Windows Photo Viewer so they always display "correctly".
 
 ##Examples
 ![glados-original](/examples/glados.gif)
@@ -24,3 +26,11 @@ Also, try different filetypes and share your results!
 ![reaper_core-original](/examples/reaper_core.png)
 
 ![reaper_core-glitched](/examples/reaper_core-glitched.png)
+
+![securitay-original](/examples/securitay.jpg)
+
+![securitay-glitched](/examples/securitay-glitched.jpg)
+
+![watch_doge-original](/examples/watch_doge.gif)
+
+![watch_doge-glitched](/examples/watch_doge-glitched.gif)
