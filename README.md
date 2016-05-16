@@ -31,6 +31,6 @@ Windows Photo Viewer worked best for me. As a result, I usually screenshot the g
 
 ![securitay-glitched](/examples/securitay-glitched.jpg)
 
-![watch_doge-original](/examples/watch_doge.gif)
+![watch_doge-original](/examples/watch_doge.jpg)
 
-![watch_doge-glitched](/examples/watch_doge-glitched.gif)
+![watch_doge-glitched](/examples/watch_doge-glitched.jpg)
