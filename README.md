@@ -1,6 +1,6 @@
-#glitch.py
+# glitch.py
 Randomly changes binary file data in order to create glitch art.
-##Usage
+## Usage
 ```./glitch <infile> [percent] [outfile]```
         
 		infile: the file to take as input
@@ -14,7 +14,7 @@ Also, try different filetypes and share your results!
 I noticed different image viewers sometimes perform differently with these glitched images. They either display the image differently or not at all.
 Windows Photo Viewer worked best for me. As a result, I usually screenshot the glitches from Windows Photo Viewer so they always display "correctly".
 
-##Examples
+## Examples
 ![glados-original](/examples/glados.gif)
 
 ![glados-glitched](/examples/glados-glitched.gif)
