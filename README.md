@@ -3,7 +3,7 @@ Randomly changes binary file data in order to create glitch art.
 ## Usage
 ```./glitch <infile> [percent] [outfile]```
         
-		infile: the file to take as input
+	infile: the file to take as input
 		
         percent: the percentage of the file to corrupt, by default, 0.1%
 		
