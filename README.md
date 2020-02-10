@@ -2,7 +2,7 @@
 Randomly changes binary file data in order to create glitch art.
 ## Usage
 ```
-./glitch <infile> [percent] [outfile]
+python glitch.py <infile> [percent] [outfile]
         
 	infile: the file to take as input
 		
